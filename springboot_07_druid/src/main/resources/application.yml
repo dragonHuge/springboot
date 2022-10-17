@@ -1,0 +1,16 @@
+#
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/javaweb?useUnicode=true;characterEncoding=UTF-8;GMT%2B8
+#    username: root
+#    password: missk72387
+#
+#
+spring:
+  datasource:
+    druid:
+       driver-class-name: com.mysql.cj.jdbc.Driver
+       username: root
+       password: missk72387
+       url: jdbc:mysql://localhost:3306/javaweb?useUnicode=true;characterEncoding=UTF-8;GMT%2B8

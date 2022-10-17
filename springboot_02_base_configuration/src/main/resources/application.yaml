@@ -1,0 +1,17 @@
+server:
+  port: 80
+
+name: 小龙
+
+a:
+  b:
+    c:
+      d:
+        name: xiaolong
+
+
+datasource:
+  driver: 11111111111
+  url: 22222222222
+  username: 33333333333
+  password: 444444444
